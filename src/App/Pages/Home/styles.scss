@@ -1,0 +1,11 @@
+.home-container {
+    min-height: 100vh;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .list {
+        min-width: 300px;
+    }
+}
